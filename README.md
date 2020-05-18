@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Demo of CORS lambda React frontend
+## uses [Stocktwits](https://api.stocktwits.com/developers/docs/api) API
+
+# [alexanderjacks](https://github.com/alexanderjacks), MIT, 2020/MMXX
+
+Here we have a quick project using Netlify for hosting & their Lambda service (PaaS + FaaS). We're retrieving data from the free Stocktwits API and displaying it in a web app built in JavaScript (ES8) using de facto frontend templating/UX (React library/Bootstrap 4).
+
+Please see these for more:
+ + [Create React App](https://github.com/facebook/create-react-app)
+ + [Netlify]()
+
+----
 
 ## Available Scripts
 
